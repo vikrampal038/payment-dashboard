@@ -1,0 +1,90 @@
+import { FaPlus } from "react-icons/fa6";
+
+
+export const initialPayments = [
+  {
+    id: "SDFE234",
+    app: "Slack",
+    owner: "RK",
+    owner: "RK",
+    document: "document_file_name.pdf",
+    type: "AWS payment",
+  },
+  {
+    id: "SDFE234",
+    app: "Slack",
+    owner: "RK",
+    document: "document_file_name.pdf",
+    type: "AWS payment",
+  },
+  {
+    id: "SDFE234",
+    app: "Slack",
+    owner: "RK",
+    document: "document_file_name.pdf",
+    type: "AWS payment",
+  },
+  {
+    id: "SDFE234",
+    app: "Slack",
+    owner: "RK",
+    document: "document_file_name.pdf",
+    type: "AWS payment",
+  },
+  {
+    id: "SDFE234",
+    app: "Slack",
+    owner: "RK",
+    document: "document_file_name.pdf",
+    type: "AWS payment",
+  },
+  {
+    id: "SDFE234",
+    app: "Slack",
+    owner: "RK",
+    document: "document_file_name.pdf",
+    type: "AWS payment",
+  },
+  {
+    id: "SDFE234",
+    app: "Slack",
+    owner: "RK",
+    document: "document_file_name.pdf",
+    type: "AWS payment",
+  },
+  {
+    id: "SDFE234",
+    app: "Slack",
+    owner: "RK",
+    document: "document_file_name.pdf",
+    type: "AWS payment",
+  },
+  {
+    id: "SDFE234",
+    app: "Slack",
+    owner: "RK",
+    document: "document_file_name.pdf",
+    type: "AWS payment",
+  },
+  {
+    id: "SDFE234",
+    app: "Slack",
+    owner: "RK",
+    document: "document_file_name.pdf",
+    type: "AWS payment",
+  },
+  {
+    id: "SDFE234",
+    app: "Slack",
+    owner: "RK",
+    document: "document_file_name.pdf",
+    type: "AWS payment",
+  },
+  {
+    id: "SDFE234",
+    app: "Slack",
+    owner: "RK",
+    document: "document_file_name.pdf",
+    type: "AWS payment",
+  },
+];
