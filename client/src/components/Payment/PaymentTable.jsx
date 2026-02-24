@@ -76,7 +76,7 @@ const PaymentTable = ({ data, selectedRows, setSelectedRows }) => {
                   <span className="flex  justify-center py-1 items-center gap-4 rounded-md">
                     <img
                       alt="data icon"
-                      src="/src/assets/Featured icon.png"
+                      src="/assets/Featured icon.png"
                       className="w-10 h-10"
                     />
                     {item.app}

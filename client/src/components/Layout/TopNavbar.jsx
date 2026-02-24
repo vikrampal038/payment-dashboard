@@ -13,7 +13,7 @@ const TopNavbar = ({ onMenuClick }) => {
 
         <img
           alt="logo"
-          src="./src/assets/Layer_1.png"
+          src="/assets/Layer_1.png"
           className="w-43.25 h-8.75"
         />
       </div>
@@ -27,7 +27,7 @@ const TopNavbar = ({ onMenuClick }) => {
         </button>
 
         <img
-          src="https://i.pravatar.cc/40"
+          src="/assets/Ellipse 6.png"
           alt="user"
           className="w-8 h-8 rounded-full"
         />
