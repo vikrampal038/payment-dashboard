@@ -13,7 +13,7 @@ const TopNavbar = ({ onMenuClick }) => {
 
         <img
           alt="logo"
-          src="/src/assets/Layer_1.png"
+          src="./src/assets/Layer_1.png"
           className="w-43.25 h-8.75"
         />
       </div>
