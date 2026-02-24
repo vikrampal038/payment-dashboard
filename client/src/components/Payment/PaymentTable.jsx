@@ -73,7 +73,7 @@ const PaymentTable = ({ data, selectedRows, setSelectedRows }) => {
                   />
                 </td>
                 <td className=" text-center text-[16px] font-medium font-poppins">
-                  <span className="flex  justify-center py-1 items-center gap-4 rounded-md">
+                  <span className="flex  justify-start py-1 items-center gap-4 rounded-md">
                     <img
                       alt="data icon"
                       src="/assets/Featured icon.png"
